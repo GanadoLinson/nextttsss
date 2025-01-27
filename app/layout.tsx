@@ -50,6 +50,8 @@ export default function RootLayout({
             
             
               <a href="/profile/contact"className="text-gray-600 hover:text-gray-800">Contact</a>
+
+              <a href="/testCorpuz"className="text-gray-600 hover:text-gray-800">Quote</a>
             
             
            
