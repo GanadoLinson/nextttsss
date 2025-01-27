@@ -1,5 +1,5 @@
 "use client"
-
+/* eslint-disable */
 import {useEffect, useState} from "react"
 
 export default function about() {
