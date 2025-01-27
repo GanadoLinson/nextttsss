@@ -7,7 +7,7 @@ export default function Page() {
   const [quote, setQuote] = useState()
   
   const handleFetch = async () => {
-    const result = await fetch('https://kompurmi.vercel.app/api/getData')
+    const result = await fetch('https://konpurmi.vercel.app/api/getData')
     const data = await result.json()
     setQuote(data.data)
   }
